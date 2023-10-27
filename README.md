@@ -147,17 +147,6 @@
         </div>
     </section>
 
-    <section id="resume">
-    
-        <div class="section-content">
-            <center>
-            <h2>Resume</h2>
-            <a href="https://drive.google.com/file/d/1Fjf9NlokC-6Cvk6CimvWKehDOOl8855V/view?usp=sharing" target="_blank" class="download-button">Download CV</a>
-        </center>
-        </div>
-        
-    </section>
-
     <footer>
         <p>/p>
     </footer>
